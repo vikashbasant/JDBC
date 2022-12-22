@@ -1,0 +1,10 @@
+
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÊÀí şÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(íñéşÿÿÿÿ
+Z
+java:S2147$"DCombine this catch with the one at line 34, which has the same body.(É®£
+\
+java:S1659"ADeclare "user" and all following declarations on a separate line.(ä÷ºˆÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(é¼Å
